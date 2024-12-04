@@ -1,0 +1,397 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+#conteiner {
+    width: 100%;
+    max-width: 1416px;
+    margin: 0 auto;
+    padding: 96px;
+    margin-top: 64px;
+    background: #E2F7FF;
+}
+
+#conteiner-migration {
+    display: inline-block;
+}
+
+#conteiner-olivia {
+    color: #6941C6;
+    font-family: Inter;
+    font-size: 14px;
+    margin-top: 20px;
+    display: block;
+}
+
+#ux-review {
+    display: inline-block;
+    color: #181D27;
+    font-family: Inter;
+    font-size: 30px;
+    margin-top: 8px;
+}
+
+#conteiner-compelling {
+    overflow: hidden;
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    margin-top: 8px;
+}
+
+#compelling-Presentation {
+    margin-top: 32px;
+}
+
+#arrow {
+    display: inline-block;
+
+}
+
+#design {
+    padding: 8px 12px;
+    border-radius: var(--radius-full, 9999px);
+    border: 1px solid #E9D7FE;
+    background: #F9F5FF;
+    color: #6941C6;
+
+}
+
+#Research {
+    padding: 8px 12px;
+    border-radius: var(--radius-full, 9999px);
+    border: 1px solid #C7D7FE;
+    background: #EEF4FF;
+    color: #3538CD;
+
+}
+
+#presentations {
+    padding: 8px 12px;
+    border-radius: var(--radius-full, 9999px);
+    border: 1px solid #FCCEEE;
+    background: #FDF2FA;
+    color: #C11574;
+}
+
+
+#phoenix-baker {
+
+    font-family: Inter;
+    color: #6941C6;
+    font-size: 14px;
+    margin-top: 20px;
+    display: inline-block;
+}
+
+#migration-baker {
+    vertical-align: top;
+    display: inline-block;
+}
+
+#arrow-right {
+    display: inline-block;
+    margin-left: 100px;
+    text-align: left;
+}
+
+#Migrating-linear {
+    color: #181D27;
+    font-family: Inter;
+    display: inline-block;
+    font-size: 24px;
+    margin-top: 8px;
+}
+
+#conteiner-projects {
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    width: 410px;
+    margin-top: 8px;
+}
+
+#Product {
+    padding: 8px 12px;
+    border-radius: var(--radius-full, 9999px);
+    border: 1px solid #B9E6FE;
+    background: #F0F9FF;
+    color: #026AA2;
+
+}
+
+#Tools {
+    padding: 8px 12px;
+    border-radius: var(--radius-full, 9999px);
+    border: 1px solid #FCCEEE;
+    color: #C11574;
+    background: #FDF2FA;
+}
+
+#SaaS {
+    padding: 8px 12px;
+    border-radius: var(--radius-full, 9999px);
+    border: 1px solid #FCCEEE;
+    background: #FDF2FA;
+    color: #C11574;
+
+}
+
+#contact-product {
+    margin-top: 24px;
+}
+
+#Building {
+    display: inline-block;
+}
+
+#Steiner {
+    color: #6941C6;
+    font-family: Inter;
+    font-size: 14px;
+    margin-top: 24px;
+}
+
+#conteiner-linear {
+    margin-top: 64px;
+    display: inline-block;
+}
+
+#Building-steiner {
+    color: #181D27;
+    font-family: Inter;
+    font-size: 24px;
+    margin-top: 8px;
+    display: inline-block;
+}
+
+#Building-restful {
+    color: #535862;
+    text-overflow: ellipsis;
+    font-family: Inter;
+    font-size: 16px;
+    margin-top: 8px;
+    width: 400px;
+}
+
+#Software-Development {
+    padding: 8px 12px;
+    border-radius: var(--radius-full, 9999px);
+    border: 1px solid #ABEFC6;
+    background: #ECFDF3;
+}
+
+#Tools-Software {
+    border-radius: var(--radius-full, 9999px);
+    border: 1px solid #FCCEEE;
+    background: #FDF2FA;
+    padding: 8px 12px;
+}
+
+#content-sofware {
+    margin-top: 24px;
+}
+
+#RESTful-arrow {
+    display: inline-block;
+    margin-left: 90px;
+}
+
+#tools-image {
+    display: inline-block;
+}
+
+#Alec-Whitten {
+    color: #6941C6;
+    font-family: Inter;
+    font-size: 14px;
+    margin-top: 24px;
+}
+
+#leadership {
+    color: #181D27;
+    font-family: Inter;
+    font-size: 24px;
+    display: inline-block;
+    margin-top: 8px;
+}
+
+#secrets-transforming {
+    width: 400px;
+    color: #535862;
+    text-overflow: ellipsis;
+    font-family: Inter;
+    margin-top: 8px;
+    font-size: 16px;
+}
+
+#secrets-arrow {
+    display: inline-block;
+    margin-left: 30px;
+}
+
+#Leadership {
+    padding: 8px 12px;
+    border-radius: var(--radius-full, 9999px);
+    border: 1px solid #E9D7FE;
+    background: #F9F5FF;
+    color: #6941C6;
+}
+
+
+#Management {
+    padding: 8px 12px;
+    border-radius: var(--radius-full, 9999px);
+    border: 1px solid #D5D9EB;
+    color: #363F72;
+    background: #F8F9FC;
+}
+
+#Leadership-Management {
+    margin-top: 24px;
+}
+
+#conteiner-models {
+    margin-top: 64px;
+    display: inline-flex;
+}
+
+#mental-models {
+    vertical-align: top;
+    display: inline-block;
+}
+
+#Linear-migracion {
+    display: inline-block;
+
+}
+
+#conteiner-mental {
+    font-family: Inter;
+    color: #6941C6;
+    font-size: 14px;
+    margin-top: 20px;
+    display: inline-block;
+}
+
+#conteiner-products {
+    color: #181D27;
+    font-family: Inter;
+    display: inline-block;
+    font-size: 24px;
+    margin-top: 8px;
+}
+
+#expressions-complex {
+    display: inline-block;
+    margin-left: 140px;
+}
+
+#conteiner-expressions {
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    width: 410px;
+    margin-top: 8px;
+}
+
+#contact-Research {
+    margin-top: 24px;
+}
+
+#Product-Research {
+    padding: 8px 12px;
+    border-radius: var(--radius-full, 9999px);
+    border: 1px solid #B9E6FE;
+    color: #3538CD;
+    background: #F0F9FF;
+}
+
+#Research {
+    padding: 8px 12px;
+    color: #3538CD;
+
+    border-radius: var(--radius-full, 9999px);
+    border: 1px solid #C7D7FE;
+    background: #EEF4FF;
+}
+
+#Frameworks {
+    padding: 8px 12px;
+    color: #B93815;
+
+    border-radius: var(--radius-full, 9999px);
+    border: 1px solid #F9DBAF;
+    background: #FEF6EE;
+}
+
+#wireframing {
+    display: inline-block;
+}
+
+#Candice {
+    color: #6941C6;
+    font-family: Inter;
+    font-size: 14px;
+    margin-top: 24px;
+}
+
+#conteiner-candice {
+    color: #181D27;
+    font-family: Inter;
+    font-size: 24px;
+    display: inline-block;
+    margin-top: 8px;
+}
+
+#Introduction {
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    margin-top: 8px;
+    width: 350px;
+}
+
+#Design {
+    padding: 8px 16px;
+    color: #6941C6;
+
+    border-radius: var(--radius-full, 9999px);
+    border: 1px solid #E9D7FE;
+    background: #F9F5FF;
+}
+
+#collaboration {
+    display: inline-block;
+    margin-top: 8px;
+}
+
+#conteiner-leadership {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+#leadership-lessons {
+    color: #6941C6;
+    font-family: Inter;
+    font-size: 14px;
+    margin-top: 24px;
+}
+
+#collaboration {
+    color: #181D27;
+    font-family: Inter;
+    font-size: 24px;
+    width: 320px;
+}
+
+#Collaboration {
+    width: 350px;
+    color: #535862;
+    text-overflow: ellipsis;
+    font-family: Inter;
+    margin-top: 8px;
+    font-size: 16px;
+}
